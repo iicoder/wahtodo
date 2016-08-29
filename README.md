@@ -14,5 +14,11 @@
   集成bson、btree等,支持内存管理，page划分对应到disk
   
   模仿mongodb API，至少curd吧，未来有json的聚合，导入导出
+
+- panshell 利用百度网页API在终端下操作百度云盘的增删改查
+  
+  真想把世界很多网页操作，搞成shell 类似`ls /movie` `ce /collection/torrent/` `rm *.torrent ` 这些操作，
+
+   
   
   
