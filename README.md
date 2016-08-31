@@ -19,6 +19,8 @@
   
   真想把世界很多网页操作，搞成shell 类似`ls /movie` `ce /collection/torrent/` `rm *.torrent ` 这些操作，
 
-   
+- mdx
+
+  支持WIKI，GTD，TODO等特性的Markdown扩展格式（暂时叫mdx吧）。是markdown的超集。可以学习参考目前的wiki语法和org语法。mdx是笔记软件的基础。
   
   
