@@ -1,5 +1,6 @@
 # what are we going to do
 
+## alingse
 
 - [ ] qrcode-render 0% 在图片上插入 额外的定制信息
   
@@ -14,11 +15,22 @@
 - [ ] panshell 20% 利用百度网页API在终端下操作百度云盘的增删改查(下载、上传)
   
   真想把世界很多网页操作，搞成shell 类似`ls /movie` `cd /collection/torrent/` `rm *.torrent ` 这些操作，
-
-- [ ] mdx
-
-  支持WIKI，GTD，TODO等特性的Markdown扩展格式（暂时叫mdx吧）。是markdown的超集。可以学习参考目前的wiki语法和org语法。mdx是笔记软件的基础。
   
 - [ ] flex-file 0% 文件块链的文件，支持编辑大文件
 
 - [ ] dousite 0% 聚合豆瓣用户读书列表，可查询，封面聚合成图片(KentZhu)
+
+
+## mushan
+
+- [ ] mdx 0%
+
+  支持WIKI，GTD，TODO等特性的Markdown扩展格式（暂时叫mdx吧）。是markdown的超集。可以学习参考目前的wiki语法和org语法。mdx是笔记软件的基础。
+  
+- [ ] mmnote 2% [2016/11~开发中]
+
+  结合Markdown和MindMap的笔记软件
+  
+- [ ] node.jvm 0% 2017-01-09添加
+
+  js实现的jvm
