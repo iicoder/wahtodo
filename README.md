@@ -23,6 +23,10 @@
 
 ## mushan
 
+- [x] vscode插件：粘贴剪贴板图片到文本 [vscode-paste-image](https://github.com/mushanshitiancai/vscode-paste-image)
+
+- [x] vscode插件：在iTerm2中打开 [vscode-open-iterm2](https://github.com/mushanshitiancai/vscode-open-iterm2)
+
 - [ ] mdx 0%
 
   支持WIKI，GTD，TODO等特性的Markdown扩展格式（暂时叫mdx吧）。是markdown的超集。可以学习参考目前的wiki语法和org语法。mdx是笔记软件的基础。
